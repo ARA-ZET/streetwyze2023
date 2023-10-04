@@ -44,17 +44,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAWQi7HCQeQnVFTwGW0zkO_X9ITtA5xi-U',
-    appId: '1:639685484911:web:e812dd077a2f7df6b1889a',
-    messagingSenderId: '639685484911',
+    apiKey: 'xxxxxxxxxxx-U',
+    appId: '1:639685484911:web:xxxxxxxxxx',
+    messagingSenderId: 'xxxxxxxxxxx',
     projectId: 'streetwyze23',
     authDomain: 'streetwyze23.firebaseapp.com',
     storageBucket: 'streetwyze23.appspot.com',
-    measurementId: 'G-3F8B0ZLGE1',
+    measurementId: 'G-xxxxxxxxx',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJF4Snkj48LZ3uzWfPkv93ZM_qyC4GJJ8',
+    apiKey: 'xxxxxxxxxxxxxxxx',
     appId: '1:639685484911:android:720c730c1e560609b1889a',
     messagingSenderId: '639685484911',
     projectId: 'streetwyze23',
