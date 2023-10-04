@@ -45,7 +45,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'xxxxxxxxxxx-U',
-    appId: '1:639685484911:web:xxxxxxxxxx',
+    appId: '1:xxxxxxxxxxxxxxx:web:xxxxxxxxxx',
     messagingSenderId: 'xxxxxxxxxxx',
     projectId: 'streetwyze23',
     authDomain: 'streetwyze23.firebaseapp.com',
@@ -55,31 +55,31 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'xxxxxxxxxxxxxxxx',
-    appId: '1:639685484911:android:720c730c1e560609b1889a',
-    messagingSenderId: '639685484911',
+    appId: '1:639685484911:android:xxxxxxxxx',
+    messagingSenderId: 'xxxxxxxxxxxxx',
     projectId: 'streetwyze23',
     storageBucket: 'streetwyze23.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAjsYpC4ehPWvBkyd8USz7NrxYD5ncBTLQ',
-    appId: '1:639685484911:ios:fdaa773f45e64123b1889a',
-    messagingSenderId: '639685484911',
+    apiKey: 'xxxxxxxxxxxxxxxxxx',
+    appId: '1:xxxxxxxxx:ios:xxxxxxxxx',
+    messagingSenderId: 'xxxxxxxxxxx',
     projectId: 'streetwyze23',
     storageBucket: 'streetwyze23.appspot.com',
-    androidClientId: '639685484911-gsuai5sfpka8odmrel7e4eg1bl3f9gb0.apps.googleusercontent.com',
-    iosClientId: '639685484911-qvf1n8i2j9jbgrouchi8lm276eqchr17.apps.googleusercontent.com',
+    androidClientId: 'xxxxxxxxx-xxxxxxxxxx.apps.googleusercontent.com',
+    iosClientId: 'xxxxxxxxxx-xxxxxxxxxxx.apps.googleusercontent.com',
     iosBundleId: 'com.example.streetWyze',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAjsYpC4ehPWvBkyd8USz7NrxYD5ncBTLQ',
-    appId: '1:639685484911:ios:e83fc415b3a43cbab1889a',
-    messagingSenderId: '639685484911',
+    apiKey: 'xxxxxxxxxxxxxx',
+    appId: '1:639685484911:ios:xxxxxxxxxx',
+    messagingSenderId: 'xxxxxxxxxx',
     projectId: 'streetwyze23',
     storageBucket: 'streetwyze23.appspot.com',
-    androidClientId: '639685484911-gsuai5sfpka8odmrel7e4eg1bl3f9gb0.apps.googleusercontent.com',
-    iosClientId: '639685484911-efo93q56m8o59nr443m4b96o4fdiaauh.apps.googleusercontent.com',
+    androidClientId: 'xxxxxxx-xxxxxxxxx.apps.googleusercontent.com',
+    iosClientId: 'xxxxxxxxx-xxxxxxxxxx.apps.googleusercontent.com',
     iosBundleId: 'com.example.streetWyze.RunnerTests',
   );
 }
